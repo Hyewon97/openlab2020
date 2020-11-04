@@ -1,2 +1,1 @@
-#include
-#define
+#ifndef __FUNCS.h__
