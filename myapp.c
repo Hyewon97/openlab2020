@@ -5,4 +5,6 @@ int main()
 {
 
 	foo();
+	my_ex();
+	my_stable();
 }
