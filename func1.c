@@ -10,4 +10,10 @@ void my_stable()
 {
 
 	printf("stable\n");
+
+void my_ex()
+{
+
+	printf("hello there");
+
 }
